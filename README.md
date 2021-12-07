@@ -1,4 +1,6 @@
 ### Hi there 👋
+### email: i@retaker.me
+### telegram: @Retaker
 
 <!--
 **retaker/retaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
