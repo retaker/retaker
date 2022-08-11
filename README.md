@@ -1,6 +1,8 @@
 ### Hi there 👋
 ### email: i@retaker.me
 
+## 每一次告别，最好用力一点。多说一句，可能是最后一句。多看一眼，可能是最后一眼。
+
 <!--
 **retaker/retaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
